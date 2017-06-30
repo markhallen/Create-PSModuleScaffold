@@ -8,7 +8,7 @@ Dot source into the current session:
   
 Or add to the powershell profile:
 
-https://blogs.technet.microsoft.com/heyscriptingguy/2012/05/21/understanding-the-six-powershell-profiles/
+http://www.gsx.com/blog/bid/81096/enhance-your-powershell-experience-by-automatically-loading-scripts
 
 ## Usage
 
